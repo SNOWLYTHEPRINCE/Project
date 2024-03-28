@@ -1,0 +1,22 @@
+{
+    "main_url": "https://dev.profteam.su",
+    "registration_login": "treniryusbj",
+    "login": "treniryusb",
+    "login_error": "treniryus",
+    "login_error_with_space": "tren iryus",
+    "registration_login_rus": "авываыва",
+    "registration_login_with_space": "asdas asdasd",
+    "email": "asdasdasd.sdasdaas.2006@mail.ru",
+    "wrong_email": "@",
+    "registration_password": "Lalala123123",
+    "surname": "Смышляев",
+    "name": "Сергей",
+    "patronymic": "Игоревич",
+    "educational_institution": "ТТИТ",
+    "company": "Газпром трансгаз Томск",
+    "qualification": "29.02.08 Технология обработки алмазов",
+    "specialization": "Бакалавр",
+    "wrong_year": "2",
+    "start_year": "2022",
+    "end_year": "2025"
+}
